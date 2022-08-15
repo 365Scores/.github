@@ -1,5 +1,10 @@
 {
     "name": "Build and Push container image",
     "description": "This workflow builds a docker image and pushes it to ECR.",
-    "iconName": "Build-and-push-container-image"
+    "iconName": "Build-and-push-container-image",
+    "categories": [
+        "CI",
+        "Dockerfile",
+        "365scores"
+    ]
 }
